@@ -1,7 +1,7 @@
 This sample bit of code demonstrates how to use `dlopen`, `dlsym`, et al to dynamically load
 a shared object file into a running process.
 
-I've only tested this on Linux... I'm not sure if this will work on Mac or Linux without some tweaks.
+I've only tested this on Linux... I'm not sure if this will work on Mac or Windows without some tweaks.
 
 ## Run
 
