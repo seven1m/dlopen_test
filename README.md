@@ -39,3 +39,5 @@ hello from lib_loaded
 Loaded lib successfully
 hello from lib_func
 ```
+
+_public domain_
